@@ -13,7 +13,7 @@ This directory contains species-specific preprocessing scripts to generate bench
 - GTF Annotation: GENCODE Version 38
   - Source: GENCODE
 - sQTL/Variant Data: SpliceVarDB
-  - Source: https://compbio.ccia.org.au/splicevardb/
+  - Source: https://splicevardb.org/
 
 **Output**: 23,877 SNVs (12,602 splice-altering, 11,275 normal)
 
